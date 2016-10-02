@@ -12,3 +12,5 @@ LeetCode 题解 in C++
   #  | Title           |  Solution       | Difficulty    |
 -----|---------------- | --------------- | --------------|
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./algorithms/MergeSortedArray.cpp) | Easy
+169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/MajorityElement.cpp) | Easy
+289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./algorithms/GameofLife.cpp) | Medium
