@@ -69,7 +69,7 @@ public:
     const int n = grid[0].size();
     
     int f[n];
-    fill(f, f+n, INT_MAX); // ໺݌ի᭞ INT_MAX喌ఏͩऽ䲑⩗ε min ᪟ܬȡ
+    fill(f, f+n, INT_MAX); // 初始值是 INT_MAX，因为后面用了 min 函数
     f[0] = 0;
 
     for (int i = 0; i < m; i++) {
