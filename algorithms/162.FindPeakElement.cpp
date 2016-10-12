@@ -1,5 +1,5 @@
 // Source : https://leetcode.com/problems/find-peak-element/
-// Date : 2016/10/12
+// Date   : 2016/10/12
 
 // A peak element is an element that is greater than its neighbors.
 // Given an input array where num[i] ≠ num[i+1], find a peak element and return its index.
